@@ -15,7 +15,7 @@ require (
 	github.com/microcosm-cc/bluemonday v1.0.16
 	github.com/miekg/dns v1.1.43 // indirect
 	github.com/pkg/errors v0.9.1
-	github.com/projectdiscovery/cdncheck v0.0.2
+	github.com/projectdiscovery/cdncheck v0.0.3
 	github.com/projectdiscovery/clistats v0.0.8
 	github.com/projectdiscovery/cryptoutil v0.0.0-20210805184155-b5d2512f9345
 	github.com/projectdiscovery/fastdialer v0.0.13-0.20210815100514-360f851a5b80
@@ -58,10 +58,10 @@ require (
 	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/gorilla/css v1.0.0 // indirect
-	github.com/json-iterator/go v1.1.11 // indirect
+	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/karrick/godirwalk v1.16.1 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
-	github.com/modern-go/reflect2 v1.0.1 // indirect
+	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/projectdiscovery/blackrock v0.0.0-20210415162320-b38689ae3a2e // indirect
 	github.com/projectdiscovery/networkpolicy v0.0.1 // indirect
 	github.com/projectdiscovery/reflectutil v0.0.0-20210804085554-4d90952bf92f // indirect
