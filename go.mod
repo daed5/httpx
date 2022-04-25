@@ -27,7 +27,7 @@ require (
 	github.com/projectdiscovery/hmap v0.0.2-0.20210630092648-6c0a1b362caa
 	github.com/projectdiscovery/httputil v0.0.0-20210816170244-86fd46bc09f5
 	github.com/projectdiscovery/iputil v0.0.0-20210705072957-5a968407979b
-	github.com/projectdiscovery/mapcidr v0.0.8
+	github.com/projectdiscovery/mapcidr v0.0.9
 	github.com/projectdiscovery/rawhttp v0.0.8-0.20210814181734-56cca67b6e7e
 	github.com/projectdiscovery/retryabledns v1.0.12 // indirect
 	github.com/projectdiscovery/retryablehttp-go v1.0.2-0.20210526144436-e15804ddc7dc
