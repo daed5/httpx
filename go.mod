@@ -42,8 +42,8 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/ratelimit v0.2.0
 	golang.org/x/net v0.0.0-20210813160813-60bc85c4be6d
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
-	golang.org/x/text v0.3.7
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
+	golang.org/x/text v0.3.8
 	google.golang.org/protobuf v1.27.1 // indirect
 )
 
